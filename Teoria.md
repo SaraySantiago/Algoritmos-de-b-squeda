@@ -26,7 +26,7 @@ Usa la búsqueda lineal cuando la lista no está ordenada o cuando es muy peque�
 Usa la búsqueda binaria cuando la lista está ordenada y es grande. 
 
 - [ ] que mas tipos de busquedas hay ? 
-  - [ ] en que otros espacios 
-  - [ ] de que otras maneras
+- [ ] en que otros espacios 
+- [ ] de que otras maneras
 
 ¿Dónde se usan los algoritmos de búsqueda? Los algoritmos de búsqueda se usan en muchas aplicaciones, como: Motores de búsqueda (Google, Bing) Bases de datos Inteligencia artificial Videojuegos ¿Por qué son importantes los algoritmos de búsqueda? Los algoritmos de búsqueda son importantes porque nos permiten encontrar información rápidamente. Sin ellos, sería muy difícil encontrar información en el mundo digital.
